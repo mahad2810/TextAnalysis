@@ -1,7 +1,0 @@
-pandas
-beautifulsoup4
-requests
-nltk
-textblob
-syllapy
-openpyxl
